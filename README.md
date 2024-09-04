@@ -1,2 +1,2 @@
 # target-teste2
-Teste técnico de processo seletivo Target
+Repositório com as respostas do teste técnico da Target O número que vem antes do arquivo indica qual é a questão, conforme sequência do teste técnico
